@@ -4,7 +4,7 @@
 ## Formula:
 - For a user : PF Metric =  Instantaneous SINR / Average SINR 
 ## Where:  
-1.Instantaneous data rate (or SINR) of user  at time .
+1. Instantaneous data rate (or SINR) of user  at time .
 2. Average data rate (or SINR) of user  up to time .
 
 ## Explanation:
